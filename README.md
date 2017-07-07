@@ -47,7 +47,7 @@ The above is an example of the output and a decent data point we can learn off o
   the "dumb" regex.
  - The total times are not necessarily significant, though interesting to watch.
 
-My original thought was that the different would not matter - since I was assuming
+My original thought was that the difference would not matter - since I was assuming
 the compilation of the regular expression would result in a similar simplified tree
 being used. So a "dumb" regular expression may have actually compiled slower - this
 ended up not being true.
